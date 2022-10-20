@@ -33,6 +33,7 @@ body{
     display: grid;
     grid-template-columns: 5% 90% 5%;
 }
+
 .name_parent{
     height: 100vh;
     width: 100%;
